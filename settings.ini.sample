@@ -1,0 +1,6 @@
+[RedditAPI]
+client_id= Your_ClientID
+client_secret = Your_ClientSecret
+password = Your_RedditPassword
+user_agent = PyScript
+username = Your_RedditUsername
