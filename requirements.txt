@@ -1,5 +1,5 @@
 autopep8==1.4.4
-certifi==2019.6.16
+certifi==2022.5.18.1
 chardet==3.0.4
 configparser==3.8.1
 idna==2.8
