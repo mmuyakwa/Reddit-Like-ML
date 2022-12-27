@@ -1,4 +1,4 @@
-autopep8==1.4.4
+autopep8==2.0.1
 certifi==2019.6.16
 chardet==5.1.0
 configparser==3.8.1
