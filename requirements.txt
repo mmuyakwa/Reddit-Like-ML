@@ -3,7 +3,7 @@ certifi==2022.12.7
 chardet==5.1.0
 configparser==3.8.1
 idna==2.8
-praw==7.5.0
+praw==7.6.1
 prawcore==2.3.0
 pycodestyle==2.8.0
 requests==2.22.0
