@@ -2,7 +2,7 @@ autopep8==2.0.4
 certifi==2023.11.17
 chardet==5.2.0
 configparser==6.0.0
-idna==3.4
+idna==3.6
 praw==7.7.1
 prawcore==2.4.0
 pycodestyle==2.11.1
