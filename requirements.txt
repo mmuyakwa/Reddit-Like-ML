@@ -1,7 +1,7 @@
 autopep8==2.3.1
 certifi==2024.7.4
 chardet==5.2.0
-configparser==7.0.0
+configparser==7.1.0
 idna==3.7
 praw==7.7.1
 prawcore==2.4.0
